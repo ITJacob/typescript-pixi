@@ -1,6 +1,8 @@
 {
-  "name": "typescript",
+  "name": "typescript-pixi",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "pixi.js": "5.3.10"
+  }
 }
